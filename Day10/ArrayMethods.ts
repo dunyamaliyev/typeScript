@@ -106,7 +106,7 @@ let str:string=myArray.toString();
 console.log("myArray as string:", str); // "a,b,c,d,e"
 
 
-//======= forEach(), map(), filter(), reduce(), some(), every() =======
+
 
 
 
